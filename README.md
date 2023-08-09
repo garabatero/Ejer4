@@ -1,5 +1,5 @@
 # Ejer4
 
-committed :balloon:
-modified :mag:
-staged :bulb:
+- **_committed_** :balloon:
+* **__modified__** :mag:
++ **__staged__** :bulb:
